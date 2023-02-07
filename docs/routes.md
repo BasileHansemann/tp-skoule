@@ -1,5 +1,5 @@
-# Routes
 
+|#Routes|||||
 | URL | Méthode HTTP | Controller | Méthode | Commentaire |
 |--|--|--|--|--|
 | `/` | `GET` | `MainController` | `home` | - |
