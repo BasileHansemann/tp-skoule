@@ -1,7 +1,7 @@
 # Routes
 
 | URL | Méthode HTTP | Controller | Méthode | Commentaire |
-|--|--|--|--|--|--|--|
+|--|--|--|--|--|
 | `/` | `GET` | `MainController` | `home` | - |
 | `/signin` | `GET` | ? | ? | Sign in |
 | `/signin` | `POST` | ? | ? | Sign in |
